@@ -1,5 +1,5 @@
 
-public class data_type {
+public class data_type{
   public static void main(String[] args) {
     // Create variables of different data types
     int items = 50;
