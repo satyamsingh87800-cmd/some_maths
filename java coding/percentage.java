@@ -16,6 +16,7 @@ float percentage =  (total * 100)/maxinumber;
     System.out.println("The total marks in sanskrit is :" + sanskrit);
     System.out.println("The total marks in rdbms is :" + rdbms);
         System.out.println("The total percentage is  :" + percentage);
+        System.out.println("The total is total  :" + total);
 
 
 }
